@@ -6,8 +6,7 @@ Professor: Maycon Sambinelli
 
 Linguagem: C
 
-## Listas
-[text](https://github.com/Luanfern/Programacao_Estruturada_EXs/tree/main/QuestoesListas)
+[Acessar Listas](https://github.com/Luanfern/Programacao_Estruturada_EXs/tree/main/QuestoesListas)
 ## Run
 
 Gerar Executável
