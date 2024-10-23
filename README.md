@@ -5,6 +5,9 @@ Listas de Exercícios da matéria de PE - UFABC - 3° Quadrimestre de 2024.
 Professor: Maycon Sambinelli
 
 Linguagem: C
+
+## Run
+Listas: 
 ## Run
 
 Gerar Executável
